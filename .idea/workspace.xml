@@ -4,61 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dd2f3cd-0326-4f87-a040-873059b87251" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jython_standalone_2_7_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LMS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Teacher_home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/academic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/academic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lmsimg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Academic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Attendance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mainpage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Teacher_attendance_report.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Teacher_cam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Teacher_home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Teacher_login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/camera.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/certificate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pinchange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/skill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student_attendance_check.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student_home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/student_login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/videos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/student_home.png" afterDir="false" />
-    </list>
+    <list default="true" id="7dd2f3cd-0326-4f87-a040-873059b87251" name="Changes" comment="Learning Management System with java using swing with phpmyadmin" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,28 +28,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/pilla/mysql-connector-java-8.0.25.jar&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/pilla/IdeaProjects/LMS/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "Cherry-picking in master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/pilla/mysql-connector-java-8.0.25.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/pilla/IdeaProjects/LMS/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\pilla\IdeaProjects\LMS" />
@@ -181,7 +127,16 @@
       <workItem from="1682493589507" duration="6520000" />
       <workItem from="1682506384919" duration="1418000" />
       <workItem from="1682571088220" duration="7210000" />
+      <workItem from="1682582855998" duration="459000" />
     </task>
+    <task id="LOCAL-00001" summary="Learning Management System with java using swing with phpmyadmin">
+      <created>1682582980442</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682582980442</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,7 +147,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -200,5 +167,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Learning Management System with java using swing with phpmyadmin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learning Management System with java using swing with phpmyadmin" />
   </component>
 </project>
