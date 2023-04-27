@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7dd2f3cd-0326-4f87-a040-873059b87251" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jython_standalone_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LMS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Teacher_home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lmsimg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Academic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Attendance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mainpage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teacher_attendance_report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teacher_cam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teacher_home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teacher_login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/certificate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pinchange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/skill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student_attendance_check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student_home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student_login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/videos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_home.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2OppQwQjmjR0Tb4bNmWDT5nfjzJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pilla/mysql-connector-java-8.0.25.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/pilla/IdeaProjects/LMS/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pilla\IdeaProjects\LMS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pilla\IdeaProjects\LMS" />
+      <recent name="C:\Users\pilla\IdeaProjects\LMS\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.student_home">
+    <configuration name="Mainpage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mainpage" />
+      <module name="LMS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teacher_attendance_report (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Teacher_attendance_report" />
+      <module name="LMS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teacher_attendance_report" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Teacher_attendance_report" />
+      <module name="LMS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="student_attendance_check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="student_attendance_check" />
+      <module name="LMS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="student_home" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="student_home" />
+      <module name="LMS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.student_home" />
+        <item itemvalue="Application.student_attendance_check" />
+        <item itemvalue="Application.Teacher_attendance_report (1)" />
+        <item itemvalue="Application.Mainpage" />
+        <item itemvalue="Application.Teacher_attendance_report" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7dd2f3cd-0326-4f87-a040-873059b87251" name="Changes" comment="" />
+      <created>1682267378442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682267378442</updated>
+      <workItem from="1682267379425" duration="10687000" />
+      <workItem from="1682307887032" duration="6648000" />
+      <workItem from="1682320784979" duration="13194000" />
+      <workItem from="1682357285169" duration="8509000" />
+      <workItem from="1682393956618" duration="4858000" />
+      <workItem from="1682406883011" duration="5311000" />
+      <workItem from="1682418401503" duration="7716000" />
+      <workItem from="1682427090165" duration="7029000" />
+      <workItem from="1682437117288" duration="10728000" />
+      <workItem from="1682448517482" duration="1215000" />
+      <workItem from="1682485043387" duration="4853000" />
+      <workItem from="1682493589507" duration="6520000" />
+      <workItem from="1682506384919" duration="1418000" />
+      <workItem from="1682571088220" duration="7210000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
